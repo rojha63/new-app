@@ -168,12 +168,12 @@
   </build>
   <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>release_repo</id>
             <name>Internal Releases</name>
             <url>http://13.90.28.44:8081/repository/release_repo/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>nexus-hosted</id>
             <name>Internal Snapshot Releases</name>
             <url>http://13.90.28.44:8081/repository/nexus-hosted/</url>
         </snapshotRepository>
