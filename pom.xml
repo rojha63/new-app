@@ -178,12 +178,12 @@
   </build>
   <distributionManagement>
         <repository>
-            <id>release_repo</id>
+            <id>1234</id>
             <name>Internal Releases</name>
             <url>http://23.100.21.166:8081/repository/release_repo/</url>
         </repository>
         <snapshotRepository>
-            <id>nexus-hosted</id>
+            <id>1234</id>
             <name>Internal Snapshot Releases</name>
             <url>http://23.100.21.166:8081/repository/nexus-hosted/</url>
         </snapshotRepository>
