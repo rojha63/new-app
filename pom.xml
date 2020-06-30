@@ -177,12 +177,12 @@
         <repository>
             <id>release_repo</id>
             <name>Internal Releases</name>
-            <url>http://13.90.28.44:8081/repository/release_repo/</url>
+            <url>http://23.100.21.166:8081/repository/release_repo/</url>
         </repository>
         <snapshotRepository>
             <id>nexus-hosted</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://13.90.28.44:8081/repository/nexus-hosted/</url>
+            <url>http://23.100.21.166:8081/repository/nexus-hosted/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencyManagement>
